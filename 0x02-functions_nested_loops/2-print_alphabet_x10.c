@@ -15,7 +15,7 @@ void print_alphabet_x10(void)
 		{
 			_putchar(alphabet);
 		}
-		aphabet++;
+		alphabet++;
 	}
 	num_count++;
 	_putchar('\n');
